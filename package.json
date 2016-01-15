@@ -5,10 +5,10 @@
   "readme": "README.md",
   "maintainers": [
   ],
-  "author": "miyuki",
+  "author": "miyukithings",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/miyukithings/DiscordBot.git"
   },
   "license": "GNU",
   "dependencies": {
